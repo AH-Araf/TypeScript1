@@ -25,7 +25,7 @@ const student1 : Student = {
     address: 'cum',
 }
 
-const student2:Student = {
+const student2 : Student = {
     name: 'Asif',
     age: 23,
     gender: 'male',
