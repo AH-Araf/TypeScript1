@@ -16,7 +16,7 @@ let x : undefined = undefined;
 let y : null = null;
 
 // Array
-let friends : string[] = ['Araf', 'Kafi'];
+let friends : string[] = ['Araf', 'Kafi', ];
 let classRoll : number[] = [1,2,3,4]
 
 //tuple
