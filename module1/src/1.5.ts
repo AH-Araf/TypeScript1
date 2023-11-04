@@ -13,4 +13,3 @@ const user : {
     lastName: 'Hossain',
     isMarried: true,
 }
-
